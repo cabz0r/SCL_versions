@@ -1,0 +1,38 @@
+
+@font-face{
+    font-family: custom; 
+	src: url(../font/sansation_light.woff);
+}
+
+body{
+	font-family: custom;
+}
+
+
+/*TABLES---------------------*/
+
+table{
+border: 0px;
+}
+
+th{
+background-color:white; 
+width:400px; 
+color:#555;
+}
+
+td{
+background-color:#AAA; 
+color:#555; 
+width:375px; 
+text-align: center;
+}
+
+/*DIVS---------------------*/
+
+div{
+background-color:#489; 
+padding:50px; 
+width:400px; 
+border-radius:3px;
+}
